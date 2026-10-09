@@ -53,7 +53,7 @@ I am passionate about protecting systems, analyzing vulnerabilities, and develop
 ## 📂 Proyectos Destacados / Featured Projects
 
 * 💼 **[Portafolio de Ciberseguridad / Cybersecurity Portfolio](https://github.com/fearfulword/Portafolio-Ciberseguridad)**: Repositorio central de mis proyectos, auditorías y recursos de ciberseguridad.
-* 🤝 **[Devgotchi](ENLACE_A_DEVGOTCHI)**: DevGotchi es una aplicación monolítica para observar la salud técnica de un repositorio de GitHub mediante una mascota virtual. Un único servicio Node.js entrega la interfaz React, expone GraphQL y REST, analiza señales reales del repositorio y persiste el estado. *Nota: Proyecto colaborativo donde mi rol principal fue Encargado del backend y comunicación de los datos.*
+* 🤝 **[Devgotchi](https://github.com/ksmkk/DevGotchi.git)**: DevGotchi es una aplicación monolítica para observar la salud técnica de un repositorio de GitHub mediante una mascota virtual. Un único servicio Node.js entrega la interfaz React, expone GraphQL y REST, analiza señales reales del repositorio y persiste el estado. *Nota: Proyecto colaborativo donde mi rol principal fue Encargado del backend y comunicación de los datos.*
 
 ## 📫 Contacto / Contact Me
 
