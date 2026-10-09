@@ -41,20 +41,19 @@ I am passionate about protecting systems, analyzing vulnerabilities, and develop
 * 🌱 Exploring & Learning: **Cybersecurity, Malware Analysis, and Networking**.
 * 🎯 Medium-term goals: **Specialize in the security field and achieve industry certifications**.
 
-## 📂 Proyectos Destacados / Featured Projects
 
-* 🔒 **[Nombre de Proyecto 1 / Project 1]**: [Descripción corta en español / Short description in English]
-* 🖥️ **[Nombre de Proyecto 2 / Project 2]**: [Descripción corta en español / Short description in English]
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats / Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fearfulword&show_icons=true&theme=radical" alt="Estadísticas de Tomás" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fearfulword&show_icons=true&theme=radical&hide_rank=true" height="165" alt="Estadísticas de Tomás" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearfulword&layout=compact&theme=radical" height="165" alt="Lenguajes más usados" />
 </div>
 
----
+## 📂 Proyectos Destacados / Featured Projects
+
+* 💼 **[Portafolio de Ciberseguridad / Cybersecurity Portfolio](https://github.com/fearfulword/Portafolio-Ciberseguridad)**: Repositorio central de mis proyectos, auditorías y recursos de ciberseguridad.
+* 🤝 **[Devgotchi](ENLACE_A_DEVGOTCHI)**: DevGotchi es una aplicación monolítica para observar la salud técnica de un repositorio de GitHub mediante una mascota virtual. Un único servicio Node.js entrega la interfaz React, expone GraphQL y REST, analiza señales reales del repositorio y persiste el estado. *Nota: Proyecto colaborativo donde mi rol principal fue Encargado del backend y comunicación de los datos.*
 
 ## 📫 Contacto / Contact Me
 
