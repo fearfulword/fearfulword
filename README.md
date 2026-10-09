@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Versión en Español -->
+# ¡Hola! Soy Tomás Guerra 👨‍💻🛡️
 
-<!--
-**fearfulword/fearfulword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇨🇱 Estudiante de 4to año de Ingeniería Civil en Computación e Informática | Enfoque en Ciberseguridad
 
-Here are some ideas to get you started:
+Me apasiona proteger sistemas, analizar vulnerabilidades y desarrollar soluciones de software. Actualmente curso mi **cuarto año de universidad**, enfocándome en combinar la sólida base analítica de la ingeniería con metodologías prácticas de seguridad ofensiva y defensiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Situación actual: **Cursando el 4to año de Ingeniería Civil en Computación e Informática**.
+* 🌱 Explorando y profundizando en: **Ciberseguridad, Análisis de Malware y Redes**.
+* 🎯 Mis objetivos a mediano plazo: **Especializarme en el área de seguridad y obtener certificaciones de la industria**.
+
+## 🛠️ Habilidades Técnicas / Tech Stack
+
+### 🛡️ Ciberseguridad & Redes / Cybersecurity & Networking
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 💻 Lenguajes de Programación / Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Entorno y Herramientas / Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+<!-- English Version -->
+# Hi there! I'm Tomás Guerra 👨‍💻🛡️
+
+### 🇺🇸 4th-Year Computer Engineering Student | Cybersecurity Focus
+
+I am passionate about protecting systems, analyzing vulnerabilities, and developing secure software solutions. I am currently in my **fourth year of university**, focusing on combining an analytical engineering foundation with practical offensive and defensive security methodologies.
+
+* 🎓 Current Status: **4th-year Computer Engineering (Ingeniería Civil en Computación e Informática) student**.
+* 🌱 Exploring & Learning: **Cybersecurity, Malware Analysis, and Networking**.
+* 🎯 Medium-term goals: **Specialize in the security field and achieve industry certifications**.
+
+## 📂 Proyectos Destacados / Featured Projects
+
+* 🔒 **[Nombre de Proyecto 1 / Project 1]**: [Descripción corta en español / Short description in English]
+* 🖥️ **[Nombre de Proyecto 2 / Project 2]**: [Descripción corta en español / Short description in English]
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fearfulword&show_icons=true&theme=radical" alt="Estadísticas de Tomás" />
+</div>
+
+---
+
+## 📫 Contacto / Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomas-guerra-reyes)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tomas.guerra)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerratomas447@gmail.com)
